@@ -1,0 +1,38 @@
+{
+  "name": "@jones.tristand/integrators",
+  "version": "1.0.0",
+  "description": "[![NPM version](https://badge.fury.io/js/%40jones.tristand%2Fintegrators.svg)](https://npmjs.org/package/@jones.tristand/integrators) A simple package containing methods for numerical integration of systems of differential equations. Includes a simple Euler integrator and a fourth-order Runge-Kutta (RK4) integrator.",
+  "main": "index.js",
+  "typings": "./index.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonestristand/integrators.git"
+  },
+  "keywords": [
+    "integrator",
+    "rk4",
+    "runge",
+    "kutta",
+    "integrate",
+    "differential",
+    "equation",
+    "ode"
+  ],
+  "author": "Tristan Jones <jones.tristand@gmail.com> (http://www.tdjones.ca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonestristand/integrators/issues"
+  },
+  "homepage": "https://github.com/jonestristand/integrators#readme"
+}
