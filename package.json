@@ -1,6 +1,6 @@
 {
   "name": "@jones.tristand/integrators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package containing methods for numerical integration of systems of differential equations.",
   "main": "index.js",
   "typings": "./index.d.ts",
