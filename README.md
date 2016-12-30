@@ -1,5 +1,5 @@
 # @jones.tristand/integrators
-[![NPM version](https://badge.fury.io/js/%40jonestristand%2Fintegrators.svg)](https://npmjs.org/package/@jonestristand/integrators)
+[![NPM version](https://badge.fury.io/js/%40jones.tristand%2Fintegrators.svg)](https://npmjs.org/package/@jonestristand/integrators)
 
 A simple package containing methods for numerical integration of systems of differential equations. Includes a simple Euler integrator and a fourth-order Runge-Kutta (RK4) integrator. This package also includes typings in the package and can be used with TypeScript directly.
 
